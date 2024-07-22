@@ -11,7 +11,7 @@
 
 - 🏢 I'm currently working at my company **HFX Solutions** and also do some freelancing at **Toptal**
 - 💬 Ping me about **devops**, **sre**, **cloud**, **development**
-- ⚡️ Fun fact: I really to travel and radical sports
+- ⚡️ Fun fact: I really like to travel and radical sports
 
 ##### Stuff I use daily
 
